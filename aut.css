@@ -1,0 +1,124 @@
+.div41 {
+  position: absolute;
+  top: 48px;
+  left: 167px;
+  font-size: 40px;
+  display: inline-block;
+  width: 371px;
+  height: 47px;
+}
+.login-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  width: 437px;
+  height: 80px;
+}
+.div42 {
+  position: absolute;
+  top: 20px;
+  left: 33px;
+  display: inline-block;
+  width: 106px;
+  height: 38px;
+}
+.login {
+  top: 162px;
+  left: 134px;
+  box-shadow: 0 4px 68.7px rgba(0, 0, 0, 0.25);
+  width: 437px;
+  height: 80px;
+  color: var(--color-dimgray);
+}
+.div43,
+.login,
+.pass {
+  position: absolute;
+}
+.div43 {
+  top: 20px;
+  left: 33px;
+  display: inline-block;
+  width: 127px;
+  height: 38px;
+}
+.pass {
+  top: 259px;
+  left: 134px;
+  box-shadow: 0 4px 68.7px rgba(0, 0, 0, 0.25);
+  width: 437px;
+  height: 80px;
+  color: var(--color-dimgray);
+}
+.reg-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-sandybrown);
+  width: 185px;
+  height: 49px;
+}
+.div44 {
+  position: absolute;
+  top: 11px;
+  left: 19px;
+  display: inline-block;
+  width: 158px;
+  height: 25px;
+}
+.aut-child,
+.reg {
+  width: 185px;
+  height: 49px;
+}
+.reg {
+  position: absolute;
+  top: 366px;
+  left: 264px;
+  font-size: var(--font-size-5xl);
+}
+.aut-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-slateblue);
+}
+.aut-child,
+.aut1,
+.div45 {
+  position: absolute;
+}
+.div45 {
+  top: 12px;
+  left: 56px;
+  display: inline-block;
+  width: 73px;
+  height: 25px;
+}
+.aut1 {
+  top: 426px;
+  left: 264px;
+  width: 185px;
+  height: 49px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.aut {
+  width: 706px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  height: 518px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

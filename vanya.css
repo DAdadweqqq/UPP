@@ -1,0 +1,129 @@
+.div49 {
+  position: absolute;
+  top: 32px;
+  left: 50px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 429px;
+  height: 44px;
+}
+.vanya-child,
+.vanya-item {
+  position: absolute;
+  top: 103.5px;
+  left: 38px;
+  max-height: 100%;
+  width: 898px;
+}
+.vanya-item {
+  top: 333px;
+}
+.div50,
+.div51 {
+  position: absolute;
+  top: 138px;
+  left: 50px;
+  font-weight: 500;
+  display: inline-block;
+  width: 301px;
+  height: 44px;
+}
+.div51 {
+  left: 319px;
+  color: var(--color-slateblue);
+  width: 154px;
+}
+.div52 {
+  top: 260px;
+  left: 50px;
+  width: 131px;
+}
+.div52,
+.div53,
+.div54 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+  height: 44px;
+}
+.div53 {
+  top: 260px;
+  left: 157px;
+  color: var(--color-slateblue);
+  width: 112px;
+}
+.div54 {
+  top: 199px;
+  left: 50px;
+  width: 257px;
+}
+.p2 {
+  margin: 0;
+}
+.div55,
+.div56 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.div55 {
+  top: 199px;
+  left: 288px;
+  color: var(--color-slateblue);
+  width: 639px;
+  height: 44px;
+}
+.div56 {
+  top: 350px;
+  left: 50px;
+  width: 166px;
+  height: 38px;
+}
+.icons8-phone-50-12 {
+  position: absolute;
+  top: 417px;
+  left: 50px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.icons8-telegram-app-100-11,
+.icons8-vk-96-11 {
+  position: absolute;
+  top: 484px;
+  left: 50px;
+  width: 73px;
+  height: 70px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.icons8-telegram-app-100-11 {
+  top: 488px;
+  left: 126px;
+  width: 62px;
+  height: 62px;
+}
+.div57 {
+  position: absolute;
+  top: 427px;
+  left: 102px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.vanya {
+  width: 970px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 568px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

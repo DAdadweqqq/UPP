@@ -1,0 +1,134 @@
+.div58 {
+  position: absolute;
+  top: 32px;
+  left: 50px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 549px;
+  height: 44px;
+}
+.masha-child,
+.masha-item {
+  position: absolute;
+  top: 103.5px;
+  left: 38px;
+  max-height: 100%;
+  width: 898px;
+}
+.masha-item {
+  top: 333px;
+}
+.div59 {
+  top: 138px;
+  left: 50px;
+  width: 301px;
+}
+.div59,
+.div60,
+.div61,
+.div62 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+  height: 44px;
+}
+.div60 {
+  top: 138px;
+  left: 319px;
+  color: var(--color-slateblue);
+  width: 154px;
+}
+.div61,
+.div62 {
+  top: 260px;
+  left: 50px;
+  width: 131px;
+}
+.div62 {
+  left: 157px;
+  color: var(--color-slateblue);
+  width: 112px;
+}
+.div63 {
+  top: 199px;
+  left: 50px;
+  width: 257px;
+  height: 44px;
+}
+.div63,
+.div64,
+.div65 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.div64 {
+  top: 199px;
+  left: 288px;
+  color: var(--color-slateblue);
+  width: 639px;
+  height: 44px;
+}
+.div65 {
+  top: 350px;
+  left: 50px;
+  width: 166px;
+  height: 38px;
+}
+.icons8-phone-50-13 {
+  position: absolute;
+  top: 417px;
+  left: 50px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.icons8-telegram-app-100-12,
+.icons8-vk-96-12 {
+  position: absolute;
+  top: 484px;
+  left: 50px;
+  width: 73px;
+  height: 70px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.icons8-telegram-app-100-12 {
+  top: 488px;
+  left: 126px;
+  width: 62px;
+  height: 62px;
+}
+.div66 {
+  position: absolute;
+  top: 427px;
+  left: 102px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.icons8-odnoklassniki-100-11 {
+  position: absolute;
+  top: 486px;
+  left: 201px;
+  width: 57px;
+  height: 64px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.masha {
+  width: 970px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 568px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
